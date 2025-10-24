@@ -1,7 +1,11 @@
-Hi — I’m currently learning Web Application Security and documenting my journey here.
+Hi — I document my pentesting labs and notes here.
 
-Skills: Networking, Burp Suite, Web Application Pentesting (XSS, SQLi, Auth Bypass)
+Skills:
+- Networking
+- Burp Suite
+- Web App Security (XSS, SQLi, Auth Bypass)
 
-Goal: Aspiring Penetration Tester (Bug Bounty & Web Security Focus)
+Goal: Aspiring Penetration Tester — learning bug bounties and web app pentesting.
 
-Contact: arbazshaikh@gmail.com
+Contact: arbazshaikh@gmail.com  | LinkedIn: www.linkedin.com/in/arbaz-shaikh-537071326
+
